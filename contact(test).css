@@ -1,0 +1,44 @@
+h1 {
+    margin: 0px;
+}
+
+div {
+    background-color: aqua;
+}
+
+body {
+    margin: 0px;
+}
+
+
+/********* class selector ***********/
+.top-container {
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    padding: 20px;
+    border-width: 10px;
+    border-style: solid;
+
+
+}
+.middle-container {
+    position: relative;
+    left: 260px;
+    height: 200px;
+    width: 200px;
+    background-color: grey;
+    border-style: solid;
+    border-color: black;
+    border-width: 20px;
+
+}
+.bottom-container {
+    height: 200px;
+    width: 200px;
+    background-color: blueviolet;
+    margin-left: 500px;
+    border-style: solid;
+    border-color: black;
+    border-width: 10px;
+}
